@@ -15,7 +15,7 @@ In this task, my goal was to:
 ## 📝 1. The Magic Prompt 🪄
 Here is the exact structured prompt I used to guide the AI for this task:
 
-> **Role: You are a Senior SEO Content specialist and copywriter.
+Role: You are a Senior SEO Content specialist and copywriter.
 
 Context: Create a SEO content cluster strategy and 1 long-form blog for a local salon named "Hair & Care"
 
@@ -30,7 +30,7 @@ Task:
 • Internal linkage to service/booking page.
 • Focus Keyword and local search traffic.
 
-Format: Use markdown, bulletin point and bold text for easy reading. Friendly tone, easy to understand and engaging content.**
+Format: Use markdown, bulletin point and bold text for easy reading. Friendly tone, easy to understand and engaging content.
 
 ---
 
